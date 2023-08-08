@@ -19,10 +19,10 @@ Getting Started
 The app requires the backend API to be running - see the api repo.
 
 To start the frontend locally:
-`git clone https://github.com/user/face-recognition-frontend.git
-cd face-recognition-frontend
-npm install
-npm start`
+`git clone https://github.com/user/face-recognition-frontend.git`
+`cd face-recognition-frontend`
+`npm install`
+`npm start`
 
 
 Contributing
